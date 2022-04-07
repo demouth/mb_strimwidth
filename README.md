@@ -5,6 +5,8 @@ mb_strimwidth ported to JavaScript.
 Truncates string to specified width, where halfwidth characters count as 1, and fullwidth characters count as 2.
 See » http://www.unicode.org/reports/tr11/ for details regarding East Asian character widths.
 
+[![CircleCI](https://circleci.com/gh/demouth/mb_strimwidth/tree/main.svg?style=svg)](https://circleci.com/gh/demouth/mb_strimwidth/tree/main)
+
 
 ## Installation
 
