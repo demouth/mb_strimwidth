@@ -3,6 +3,9 @@ import { mb_strwidth } from "@demouth/mb_strwidth";
 /**
  * mb_strimwidth
  * 
+ * Truncates string to specified width, where halfwidth characters count as 1, and fullwidth characters count as 2.
+ * See » http://www.unicode.org/reports/tr11/ for details regarding East Asian character widths.
+ * 
  * @see https://www.php.net/manual/en/function.mb-strimwidth.php
  * @param str 
  * @param start 
