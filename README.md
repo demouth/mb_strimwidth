@@ -17,7 +17,7 @@ npm install @demouth/mb_strimwidth
 
 Using unpkg CDN:
 ```html
-<script src="https://unpkg.com/@demouth/mb_strimwidth@1.0.0/dist/mb_strimwidth.min.js"></script>
+<script src="https://unpkg.com/@demouth/mb_strimwidth@1.0.1/dist/mb_strimwidth.min.js"></script>
 ```
 
 
@@ -39,7 +39,7 @@ console.log(mb_strimwidth('𩸽定食が食べたい😆', 0, 14, '...')); // �
 
 Browser:
 ```html
-<script src="https://unpkg.com/@demouth/mb_strimwidth@1.0.0/dist/mb_strimwidth.min.js"></script>
+<script src="https://unpkg.com/@demouth/mb_strimwidth@1.0.1/dist/mb_strimwidth.min.js"></script>
 <script>
   console.log(mb_strimwidth('𩸽定食が食べたい😆', 0, 14, '...')); // 𩸽定食が食...
 </script>
