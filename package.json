@@ -1,6 +1,6 @@
 {
   "name": "@demouth/mb_strimwidth",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "mb_strimwidth ported to JavaScript. Truncates string to specified width, where halfwidth characters count as 1, and fullwidth characters count as 2.",
   "main": "dist/index.cjs.js",
   "module": "dist/index.es.js",
